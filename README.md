@@ -5,7 +5,6 @@
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML%20Models-orange.svg)
 ![Tableau](https://img.shields.io/badge/Tableau-Dashboard-blueviolet.svg)
 ![Status](https://img.shields.io/badge/Project-Completed-success.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
 
 This project analyzes the **IBM HR Analytics Employee Attrition & Performance** dataset and builds multiple machine learning models to predict whether an employee is likely to leave the company.
 It includes **data preprocessing**, **outlier handling**, **feature engineering**, **scaling**, **ML model comparison**, and a **Tableau dashboard** for visualization.
