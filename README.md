@@ -1,10 +1,16 @@
 # 📊 IBM HR Analytics – Employee Attrition Prediction
 
-![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-yellow.svg)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML%20Models-orange.svg)
-![Tableau](https://img.shields.io/badge/Tableau-Dashboard-blueviolet.svg)
-![Status](https://img.shields.io/badge/Project-Completed-success.svg)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Status](https://img.shields.io/badge/Project_Completed-28A745?style=for-the-badge&logo=checkmarx&logoColor=white)
+![License](https://img.shields.io/badge/MIT_License-000000?style=for-the-badge&logo=open-source-initiative&logoColor=white)
+
 
 This project analyzes the **IBM HR Analytics Employee Attrition & Performance** dataset and builds multiple machine learning models to predict whether an employee is likely to leave the company.
 It includes **data preprocessing**, **outlier handling**, **feature engineering**, **scaling**, **ML model comparison**, and a **Tableau dashboard** for visualization.
